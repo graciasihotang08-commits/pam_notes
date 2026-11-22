@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "813026274796",
+    "project_id": "pam-notes-42325006-graci-5c199",
+    "storage_bucket": "pam-notes-42325006-graci-5c199.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813026274796:android:083c4ffd39ee7ec1ffe4c9",
+        "android_client_info": {
+          "package_name": "del.ac.id.pam_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813026274796-8j31h67p110lfn768jdvirca2ee1ucgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "del.ac.id.pam_notes",
+            "certificate_hash": "44df532b45e6e5d9224c3bf584569b8613c72a0a"
+          }
+        },
+        {
+          "client_id": "813026274796-0qpgvk6uiafmvt3t18nrhp6nddglbd85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7G1Sa6NAnhiNXXVHOZI18qY-It1028AQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813026274796-0qpgvk6uiafmvt3t18nrhp6nddglbd85.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813026274796-qvahtjf3h469q4ketqo9ttqnugnct6ai.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "del.ac.id.pamNotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
